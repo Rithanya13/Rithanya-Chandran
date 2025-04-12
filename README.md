@@ -1,29 +1,76 @@
-# Rithanya-Chandran
-<h1 align="center">Hi 👋, I'm Rithanya Chandran </h1>
-<h3 align="center">A passionate Business Analyst from Suffolk University, USA.</h3>
+# Rithanya Chandran
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rithanya-Chandran&label=Profile%20views&color=0e75b6&style=flat" alt="Rithanya-Chandran" /> </p>
+<h1 align="center">Hi 👋, I'm Rithanya Chandran</h1>
+<h3 align="center">Business Analytics Graduate Student | Data Scientist | Ex-Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rithanya13" alt="Rithanya13" /></a> </p>
-
-- 🔭 I’m currently working on **Applying Multi-Agent Reinforcement Learning to Physical Problems**
-
-- 🌱 I’m currently learning **Reinforcement Learning, MLOps, Deep Learning, Machine Learning**
-
-- 👯 I’m looking to collaborate on **Multi-Agent Reinforcement Learning**
-
-- 📫 How to reach me **rithanyarith13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://https://www.linkedin.com/in/rithanya-chandran//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswanathan sankar" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rithanya-chandran/"><img src="https://img.shields.io/badge/LinkedIn-RithanyaChandran-blue?logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:rithanyachandran13@gmail.com"><img src="https://img.shields.io/badge/Email-rithanyachandran13@gmail.com-blue?logo=gmail" alt="Email"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rithanya13&show_icons=true&locale=en&layout=compact" alt="Rithanya13" /></p>
+🎓 **Graduate Student** at **Suffolk University**, pursuing a Master's in Business Analytics (2024–2025)  
+💼 Former **Software Engineer** at GAVS Technologies with 2.5+ years of experience  
+📊 Skilled in **Python, SQL, Power BI, Tableau, Excel, ML/AI, API Automation, and Data Visualization**  
+📁 Passionate about solving real-world problems with data-driven insights and machine learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rithanya13&show_icons=true&locale=en" alt="Rithanya13" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rithanya13&" alt="Rithanya13" /></p>
+## 🔬 Current Interests
+- Machine Learning & Predictive Modeling
+- Data Engineering & ETL Pipelines
+- NLP & Generative AI
+- MLOps, CI/CD for ML, and Model Deployment
+- Agent-Based & Multi-Agent Systems
+
+---
+
+## 💡 Featured Projects
+
+### 📌 Bionic Eye – ML-Based Object Classification System
+- Developed a Raspberry Pi–based system to recognize 50+ objects using OpenCV and feature engineering techniques  
+- Integrated TTS audio feedback to assist visually impaired users in real-time  
+**Tech Used**: Python, Raspberry Pi, OpenCV, TTS  
+
+### 📌 Credit Risk Analysis & Predictive Modeling
+- Built a linear regression model on credit applicant data (R² = 0.82) to predict monthly debt  
+- Used T-Test, ANOVA, and Z-score analysis for insight and outlier detection  
+**Tech Used**: Python, Pandas, Seaborn, Statsmodels  
+
+### 📌 Employee Exit Survey & Retention Analysis
+- Analyzed 700+ exit records to identify top 5 causes of turnover; helped HR cut attrition by ~12%  
+- Created dashboards with Excel and Power BI for key insights  
+**Tech Used**: Excel, Power BI, Data Analysis Toolpak  
+
+---
+
+## 🧠 Tools & Skills
+
+**Languages & Libraries**  
+`Python` | `SQL` | `NumPy` | `Pandas` | `Matplotlib` | `Seaborn` | `TextBlob` | `OpenCV`
+
+**Analytics & ML**  
+`Linear Regression` | `T-Test` | `ANOVA` | `Forecasting` | `Predictive Modeling` | `Statistical Analysis`
+
+**Tools & Platforms**  
+`Power BI` | `Tableau` | `Excel (Advanced)` | `Postman` | `Git` | `SAP` | `Dynamics 365` | `MS SQL Server`
+
+**Other**  
+`Prompt Engineering` | `API Automation` | `Workflow Automation` | `Data Cleaning`
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: [rithanyachandran13@gmail.com](mailto:rithanyachandran13@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/rithanya-chandran](https://www.linkedin.com/in/rithanya-chandran/)  
+- 🌐 Portfolio (coming soon!)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rithanya13&show_icons=true&theme=default" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithanya13&theme=default" />
+</p>
